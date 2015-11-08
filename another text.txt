@@ -1,8 +1,4 @@
 some text for change
-<<<<<<< HEAD
-in another branch
-=======
 in another branch
 
 changes
->>>>>>> origin/branch1
