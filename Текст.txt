@@ -1,2 +1,3 @@
 Текст с котиками
 Котики с текстом
+Changes in master branch
